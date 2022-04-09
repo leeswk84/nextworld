@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6f23806a15c94b44fa99136c053ea03c
+timeCreated: 1511055073
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sandoll MiSaeng
+  fontNames:
+  - Sandoll MiSaeng
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

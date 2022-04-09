@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bc71f605ae2ebd74abf8386dc02c2d77
+timeCreated: 1511061905
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Godo B
+  fontNames:
+  - Godo B
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
